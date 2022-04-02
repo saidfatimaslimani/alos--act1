@@ -1,0 +1,43 @@
+
+{"empruntLivre": [
+    {
+        "id": 0,
+        "date": "2021-07-27",
+        "code_lecteur": 15,
+        "code_livre": 5,
+        "id_lecteur": 0,
+        "id_livre": 0,
+        "date_retour": "2021-07-05",
+        "titre": "Lead Paradigm Designer"
+    },
+    {
+        "id": 1,
+        "date": "2021-08-26",
+        "code_lecteur": 0,
+        "code_livre": 71,
+        "id_lecteur": 1,
+        "id_livre": 1,
+        "date_retour": "2021-07-05",
+        "titre": "Corporate Paradigm Officer"
+    },
+    {
+        "id": 2,
+        "date": "2021-05-28",
+        "code_lecteur": 3,
+        "code_livre": 81,
+        "id_lecteur": 2,
+        "id_livre": 2,
+        "date_retour": "2021-08-03",
+        "titre": "Future Functionality Designer"
+    },
+    {
+        "id": 3,
+        "date": "2021-12-23",
+        "code_lecteur": 8,
+        "code_livre": 18,
+        "id_lecteur": 3,
+        "id_livre": 3,
+        "date_retour": "2021-10-23",
+        "titre": "Lead Accounts Engineer"
+    }
+]}

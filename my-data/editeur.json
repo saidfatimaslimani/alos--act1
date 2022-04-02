@@ -1,0 +1,29 @@
+{
+    "editeur": [
+        {
+            "id": 0,
+            "nom_editeur": "Tricia Cassin",
+            "lieu": "11664 Modesto Island"
+        },
+        {
+            "id": 1,
+            "nom_editeur": "Gordon Auer",
+            "lieu": "30453 Abbie Roads"
+        },
+        {
+            "id": 2,
+            "nom_editeur": "Clay Jacobi",
+            "lieu": "00377 Gaylord Route"
+        },
+        {
+            "id": 3,
+            "nom_editeur": "Mildred Senger",
+            "lieu": "5432 Kenton Crescent"
+        },
+        {
+            "id": 4,
+            "nom_editeur": "Philip Lind",
+            "lieu": "4735 Ledner Drive"
+        }
+    ]
+    }

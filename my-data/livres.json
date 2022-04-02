@@ -1,0 +1,73 @@
+{
+    "livres":[
+ {
+     "id": 0,
+     "code_livre": 0,
+     "titre": "Dynamic Markets Associate",
+     "auteur": "Clyde Kunde",
+     "ISBN": 33,
+     "annee_edition": "2022-03-29",
+     "nombre_page": 81,
+     "etat_livre": "Regional Brand Strategist",
+     "id_categorie_livre": 0,
+     "id_editeur": 0,
+     "id_emprunt_livre": 0,
+     "id_auteur": 0
+ },
+ {
+     "id": 1,
+     "code_livre": 23,
+     "titre": "Investor Metrics Architect",
+     "auteur": "Dianne Nader",
+     "ISBN": 74,
+     "annee_edition": "2022-03-30",
+     "nombre_page": 95,
+     "etat_livre": "Global Branding Engineer",
+     "id_categorie_livre": 1,
+     "id_editeur": 1,
+     "id_emprunt_livre": 1,
+     "id_auteur": 1
+ },
+ {
+     "id": 2,
+     "code_livre": 47,
+     "titre": "International Markets Supervisor",
+     "auteur": "Sara Becker",
+     "ISBN": 36,
+     "annee_edition": "2022-03-31",
+     "nombre_page": 23,
+     "etat_livre": "Principal Infrastructure Developer",
+     "id_categorie_livre": 2,
+     "id_editeur": 2,
+     "id_emprunt_livre": 2,
+     "id_auteur": 2
+ },
+ {
+     "id": 3,
+     "code_livre": 7,
+     "titre": "Regional Intranet Officer",
+     "auteur": "William Schumm",
+     "ISBN": 29,
+     "annee_edition": "2022-04-01",
+     "nombre_page": 89,
+     "etat_livre": "International Division Facilitator",
+     "id_categorie_livre": 3,
+     "id_editeur": 3,
+     "id_emprunt_livre": 3,
+     "id_auteur": 3
+ },
+ {
+     "id": 4,
+     "code_livre": 61,
+     "titre": "International Marketing Director",
+     "auteur": "Mabel Strosin",
+     "ISBN": 20,
+     "annee_edition": "2022-04-02",
+     "nombre_page": 33,
+     "etat_livre": "Senior Factors Developer",
+     "id_categorie_livre": 4,
+     "id_editeur": 4,
+     "id_emprunt_livre": 4,
+     "id_auteur": 4
+ }
+]}
